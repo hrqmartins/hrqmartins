@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e estou começando a minha jornada na programação.
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e estou começando a minha jornada na programação.
 
 <div align="center">
 
