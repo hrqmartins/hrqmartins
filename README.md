@@ -1,11 +1,10 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=03269b&height=120&section=header' width='100%'/>
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Henrique.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
-
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Henrique.;&center=true&vCenter=true&size=45&width=1000&color=001c7b&font='Poppins')
 
 <div align='center'>
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hrqmartins&show_icons=true&theme=radical)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hrqmartins&show_icons=true&theme=03269b)
 
 </div>
 
