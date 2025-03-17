@@ -27,7 +27,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 | Área              | Habilidades                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**    | Português, Inglês Básico, Espanhol Básic                                                                            |
+| **Idiomas**    | Português, Inglês Básico, Espanhol Básico                                                                            |
 | **Office**   | Word, Excel, PowerPoint                                                                                 |                                                                              |
 </div>
 
