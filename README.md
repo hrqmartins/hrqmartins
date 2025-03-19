@@ -1,43 +1,74 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=03269b&height=120&section=header' width='100%'/>
+# 👨🏼‍💻 Henrique Martins
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Henrique.;&center=true&vCenter=true&size=45&width=1000&color=001c7b&font='Poppins')
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-<div align='center'>
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hrqmartins&show_icons=true&theme=03269b)
-
-</div>
-
-## Sobre mim
-
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e estou começando a minha jornada na programação.
+Me chamo Henrique Martins, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista). Desde pequeno sempre fui apaixonado por tecnologia e estou começando a minha jornada na programação.
 
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrqmartins/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrqmartins129@gmail.com@gmail.com)
-[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxrtinssz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxrtinssz/)
 
 </div>
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🤖 Linguagens e Tecnologias que estou aprendendo
 
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-## 👩‍💻 Minhas Competências
+<br/>
+<br/>
 
-<div align="center">
+### 📊 Estatísticas
 
-| Área              | Habilidades                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**    | Português, Inglês Básico, Espanhol Básico                                                                            |
-| **Office**   | Word, Excel, PowerPoint                                                                                 |                                                                              |
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=hrqmartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
