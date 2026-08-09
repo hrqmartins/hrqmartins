@@ -1,9 +1,5 @@
 # 👨🏼‍💻 Henrique Martins
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-Tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista). Desde pequeno sempre fui apaixonado por tecnologia e estou começando a minha jornada na programação com bastante interesse na área de Inteligência Artificial.
-
 <br>
 
 <div align="center">
@@ -43,16 +39,6 @@ Tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrqmartins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrqmartins&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxMjE5MDYsIm5iZiI6MTc1MzEyMTYwNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIxVDE4MTMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyZWZmMzkxYmYxMGY0OGFiMDJlYTM5MGVmNjJiYzFhOTdkYzUwYWQxMDg0ODQ1N2Y3ZjZjMGY5MWQyMzhmM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Lo5iztI4eR0C4WYI47jL6uljt95BURmPnAUZK_fKT1I" height="150" />
-</div>
 
 <br>
 
